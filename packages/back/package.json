@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "back",
+  "version": "0.1.0",
+  "author": "olga vlasova",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
